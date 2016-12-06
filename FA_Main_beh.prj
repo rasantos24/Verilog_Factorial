@@ -1,0 +1,5 @@
+verilog work "RegFile.v"
+verilog work "FA_ALU.v"
+verilog work "General.v"
+verilog work "FA_Main.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Rafael/PROYECTO_Facto/FA_Main_isim_beh.exe" -prj "C:/Users/Rafael/PROYECTO_Facto/FA_Main_beh.prj" "work.FA_Main" "work.glbl" 
